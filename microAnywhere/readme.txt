@@ -15,7 +15,7 @@ When the plugin is activated it adds two buttons to the Wordpress WYSIWYG editor
 
 [Extended instructions are available here...](http://www.undergroundwebdesigns.com/micro-anywhere-wordpress.html).
 
-This plugin is under active development: if you experience problems, please first make sure you have the latest version installed. Feature requests, bug reports and comments can be submitted [here](http://www.undergroundwebdesigns.com/micro-anywhere-wordpress.html).
+This plugin is under active development: if you experience problems, please first make sure you have the latest version installed. Feature requests, bug reports and comments can be submitted to bugs[at]undergroundwebdesigns.com.
 
 == Installation ==
 
