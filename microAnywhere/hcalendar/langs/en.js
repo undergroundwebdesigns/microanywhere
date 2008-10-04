@@ -16,5 +16,5 @@
     along with Micro Anywhere.  If not, see <http://www.gnu.org/licenses/>.
 */
 tinyMCE.addI18n('en.hcalendar',{
-	desc : 'Create / edit an event.'
+	desc : 'Create or edit an event.'
 });

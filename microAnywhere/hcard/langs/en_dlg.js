@@ -16,5 +16,5 @@
     along with Micro Anywhere.  If not, see <http://www.gnu.org/licenses/>.
 */
 tinyMCE.addI18n('en.hcard_dlg',{
-	title : 'Create / Edit Contact Info'
+	title : 'Create or Edit Contact Info'
 });

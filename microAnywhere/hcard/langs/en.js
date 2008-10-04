@@ -17,5 +17,5 @@ Copyright 2008  Alex Willemsma  (email : webmaster@undergroundwebdesigns.com)
     along with Micro Anywhere.  If not, see <http://www.gnu.org/licenses/>.
 */
 tinyMCE.addI18n('en.hcard',{
-	desc : 'Create / edit contact info.'
+	desc : 'Create or edit contact info.'
 });
