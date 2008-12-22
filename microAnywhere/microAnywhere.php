@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Micro Anywhere
-Plugin URI: http://www.undergroundwebdesigns.com/tinyMCE-hcalendar-plugin.html
+Plugin URI: http://www.undergroundwebdesigns.com/micro-anywhere-wordpress.html
 Description: Adds microformat buttons to the wordpress post and pages editor, letting you embed microformated data into your blog.
-Version: 1.0
+Version: 1.1
 Author: Alex Willemsma
 Author URI: http://www.undergroundwebdesigns.com
 */
