@@ -49,8 +49,8 @@ function micro_register_button($buttons) {
 // Load the TinyMCE plugin : editor_plugin.js (wp2.5)
 function micro_enableHCal ($plugins)
 {
-   $plugins['hcalendar'] = get_bloginfo('url').'/wp-content/plugins/microAnywhere/hcalendar/editor_plugin.js';
-   $plugins['hcard'] = get_bloginfo('url').'/wp-content/plugins/microAnywhere/hcard/editor_plugin.js';
+   $plugins['hcalendar'] = get_bloginfo('url').'/wp-content/plugins/micro-anywhere/hcalendar/editor_plugin.js';
+   $plugins['hcard'] = get_bloginfo('url').'/wp-content/plugins/micro-anywhere/hcard/editor_plugin.js';
    return $plugins;
 }
  
