@@ -3,7 +3,7 @@ Contributors: undergroundwebdesigns
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alx4god17%40gmail%2ecom&item_name=microAnywhere&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: microformats, hcalendar, hcard, vcard, ical, icalendar, event, semantics, contact info
 Requires at least: 2.5
-Stable tag: 1.1
+Stable tag: 1.2
 
 Micro Anywhere allows for easy insertion of microformatted contact information and event details through the wordpress WYSIWYG editor.
 
