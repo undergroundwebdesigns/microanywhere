@@ -66,8 +66,8 @@ function setupDates ()
 	setDaysOfMonth (document.getElementById('startYear'), document.getElementById('startMonth'), document.getElementById('startDay'));
 	document.getElementById('endMonth').selectedIndex = currDate.getMonth();
 	setDaysOfMonth (document.getElementById('endYear'), document.getElementById('endMonth'), document.getElementById('endDay'));
-	document.getElementById('startDay').selectedIndex = currDate.getDay();
-	document.getElementById('endDay').selectedIndex = currDate.getDay();
+	document.getElementById('startDay').selectedIndex = currDate.getDate() - 1;
+	document.getElementById('endDay').selectedIndex = currDate.getDate() - 1;
 	
 	currentYear = currDate.getFullYear();
 	var years = "";
@@ -233,7 +233,6 @@ function getData (parent)
 				month = parseInt (month,10);
 				var day = tinymce.DOM.getAttrib(parent.childNodes[node], 'title').substr(8, 2);
 				day = parseInt (day, 10);
-				day --;
 				var hour = tinymce.DOM.getAttrib(parent.childNodes[node], 'title').substr(11, 2);
 				var minute = tinymce.DOM.getAttrib(parent.childNodes[node], 'title').substr(14, 2);
 				var timezone = tinymce.DOM.getAttrib(parent.childNodes[node], 'title').substr(16, 6);
@@ -495,7 +494,7 @@ function codeit() {
 	//TODO: wtf?
 	if((startdate.day != (parseInt(enddate.day) - 1)) || (startdate.month != enddate.month)){
 	  if((startdate.day == enddate.day) && (startdate.month == enddate.month)) {
-		appendChildNodes(content_node, ' – ');
+		appendChildNodes(content_node, ' - ');
 	  } else {
 		appendChildNodes(content_node, ' : ');
 	  }
