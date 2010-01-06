@@ -91,7 +91,6 @@ function setDaysOfMonth (yearBox, monthBox, daysBox)
 	var leapYear = checkleapyear (yearBox.value);
 	var output = "";
 	var currentDay = daysBox.value;
-	console.log ("Current day:", currentDay);
 	month = monthBox.selectedIndex
 	switch (month)
 	{

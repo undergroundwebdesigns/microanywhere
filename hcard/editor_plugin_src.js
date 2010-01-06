@@ -40,8 +40,8 @@
 			ed.addCommand('hcardDialog', function() {
 				ed.windowManager.open({
 					file : url + '/dialog.htm',
-					width : 415 + parseInt(ed.getLang('hcard.delta_width', 0)),
-					height : 370 + parseInt(ed.getLang('hcard.delta_height', 0)),
+					width : 435 + parseInt(ed.getLang('hcard.delta_width', 0)),
+					height : 420 + parseInt(ed.getLang('hcard.delta_height', 0)),
 					inline : 1
 				}, {
 					plugin_url : url, // Plugin absolute URL
