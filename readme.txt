@@ -3,7 +3,7 @@ Contributors: undergroundwebdesigns
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alx4god17%40gmail%2ecom&item_name=microAnywhere&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: microformats, hcalendar, hcard, vcard, ical, icalendar, event, semantics, contact info
 Requires at least: 2.5
-Tested up to: 2.9.1
+Tested up to: 3.6.1
 Stable tag: 1.3
 
 Micro Anywhere allows for easy insertion of microformatted contact information and event details through the wordpress WYSIWYG editor.
@@ -39,18 +39,6 @@ Because most of the code that makes microformats work is hidden from the visual 
 = What do you spend the donations on? =
 
 Food, cloths, rent, etc. I'm a full time website designer and developer, but I didn't get paid for creating this plugin. If you like it, I'd appreciate any donations!
-
-= What else do you have planned? =
-
-1. Add support for more microformats, such as hReview.
-1. Improving the interface so it's easier to use. If anyone has suggestions, I'd love to hear them! Send them to bugs[at]undergroundwebdesigns.com
-1. Possibly doing some work to automatically incorporate microformats into other areas of the blog, such as the footer or a "contact us" page.
-
-= Where can I get more information? =
-
-[Complete usage instructions are available here.](http://www.undergroundwebdesigns.com/micro-anywhere-wordpress.html)
-
-
 
 == Screenshots ==
 
